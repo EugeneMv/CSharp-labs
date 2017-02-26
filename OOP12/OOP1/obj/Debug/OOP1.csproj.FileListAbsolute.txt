@@ -1,0 +1,6 @@
+c:\users\евгений\documents\visual studio 2015\Projects\OOP1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\Евгений\documents\visual studio 2015\Projects\OOP1\OOP1\bin\Debug\OOP1.exe
+C:\Users\Евгений\documents\visual studio 2015\Projects\OOP1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\Евгений\documents\visual studio 2015\Projects\OOP1\OOP1\obj\Debug\OOP1.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\documents\visual studio 2015\Projects\OOP1\OOP1\obj\Debug\OOP1.exe
+C:\Users\Евгений\documents\visual studio 2015\Projects\OOP1\OOP1\obj\Debug\OOP1.pdb
