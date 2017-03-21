@@ -1,0 +1,9 @@
+C:\Users\Евгений\Desktop\OOP4\OOP4\bin\Debug\OOP4.exe.config
+C:\Users\Евгений\Desktop\OOP4\OOP4\bin\Debug\OOP4.exe
+C:\Users\Евгений\Desktop\OOP4\OOP4\bin\Debug\OOP4.pdb
+C:\Users\Евгений\Desktop\OOP4\OOP4\obj\Debug\OOP4.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\OOP4\OOP4\obj\Debug\OOP4.exe
+C:\Users\Евгений\Desktop\OOP4\OOP4\obj\Debug\OOP4.pdb
+C:\Users\Евгений\Desktop\ООП\OOP4\OOP4\bin\Debug\OOP4.exe.config
+C:\Users\Евгений\Desktop\ООП\OOP4\OOP4\obj\Debug\OOP4.exe
+C:\Users\Евгений\Desktop\ООП\OOP4\OOP4\obj\Debug\OOP4.pdb

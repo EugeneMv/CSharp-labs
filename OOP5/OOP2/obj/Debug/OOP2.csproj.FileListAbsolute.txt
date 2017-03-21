@@ -1,0 +1,19 @@
+c:\users\евгений\documents\visual studio 2015\Projects\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Евгений\Desktop\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Евгений\Desktop\OOP2\OOP2\bin\Debug\OOP2.exe
+C:\Users\Евгений\Desktop\OOP2\OOP2\bin\Debug\OOP2.pdb
+C:\Users\Евгений\Desktop\OOP2\OOP2\obj\Debug\OOP2.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\OOP2\OOP2\obj\Debug\OOP2.exe
+C:\Users\Евгений\Desktop\OOP2\OOP2\obj\Debug\OOP2.pdb
+C:\Users\Евгений\Desktop\ООП\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Евгений\Desktop\ООП\OOP2\OOP2\obj\Debug\OOP2.exe
+C:\Users\Евгений\Desktop\ООП\OOP2\OOP2\obj\Debug\OOP2.pdb
+C:\Users\Евгений\Desktop\ООП\OOP3\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Евгений\Desktop\ООП\OOP3\OOP2\obj\Debug\OOP2.exe
+C:\Users\Евгений\Desktop\ООП\OOP3\OOP2\obj\Debug\OOP2.pdb
+C:\Users\Евгений\Desktop\ООП\OOP5\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\Евгений\Desktop\ООП\OOP5\OOP2\obj\Debug\OOP2.exe
+C:\Users\Евгений\Desktop\ООП\OOP5\OOP2\obj\Debug\OOP2.pdb
+C:\Users\Евгений\Desktop\ООП\OOP5\OOP2\bin\Debug\OOP2.exe
+C:\Users\Евгений\Desktop\ООП\OOP5\OOP2\bin\Debug\OOP2.pdb
+C:\Users\Евгений\Desktop\ООП\OOP5\OOP2\obj\Debug\OOP2.csprojResolveAssemblyReference.cache

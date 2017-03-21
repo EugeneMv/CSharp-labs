@@ -1,0 +1,10 @@
+C:\Users\Евгений\Desktop\OOP7\OOP7\bin\Debug\OOP7.exe.config
+C:\Users\Евгений\Desktop\OOP7\OOP7\bin\Debug\OOP7.exe
+C:\Users\Евгений\Desktop\OOP7\OOP7\bin\Debug\OOP7.pdb
+C:\Users\Евгений\Desktop\OOP7\OOP7\obj\Debug\OOP7.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\OOP7\OOP7\obj\Debug\OOP7.Form1.resources
+C:\Users\Евгений\Desktop\OOP7\OOP7\obj\Debug\OOP7.Properties.Resources.resources
+C:\Users\Евгений\Desktop\OOP7\OOP7\obj\Debug\OOP7.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\OOP7\OOP7\obj\Debug\OOP7.exe
+C:\Users\Евгений\Desktop\OOP7\OOP7\obj\Debug\OOP7.pdb
+C:\Users\Евгений\Desktop\OOP7\OOP7\obj\Debug\OOP7.Producer.resources

@@ -1,0 +1,12 @@
+C:\Users\Евгений\Desktop\OOP6\OOP6\bin\Debug\OOP6.exe.config
+C:\Users\Евгений\Desktop\OOP6\OOP6\bin\Debug\OOP6.exe
+C:\Users\Евгений\Desktop\OOP6\OOP6\bin\Debug\OOP6.pdb
+C:\Users\Евгений\Desktop\OOP6\OOP6\obj\Debug\OOP6.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\OOP6\OOP6\obj\Debug\OOP6.Properties.Resources.resources
+C:\Users\Евгений\Desktop\OOP6\OOP6\obj\Debug\OOP6.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\OOP6\OOP6\obj\Debug\OOP6.exe
+C:\Users\Евгений\Desktop\OOP6\OOP6\obj\Debug\OOP6.pdb
+C:\Users\Евгений\Desktop\OOP6\OOP6\obj\Debug\OOP6.Form1.resources
+C:\Users\Евгений\Desktop\ООП\OOP6\OOP6\bin\Debug\OOP6.exe.config
+C:\Users\Евгений\Desktop\ООП\OOP6\OOP6\obj\Debug\OOP6.exe
+C:\Users\Евгений\Desktop\ООП\OOP6\OOP6\obj\Debug\OOP6.pdb
